@@ -1,1 +1,3 @@
 sfdadaa
+
+Git还提供了一个stash功能
